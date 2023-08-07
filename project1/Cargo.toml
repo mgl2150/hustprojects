@@ -1,0 +1,7 @@
+[package]
+name = "word-search-solver"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+ggez = "0.9.3"
